@@ -24,7 +24,8 @@
 
 
 ## 前端学习路线
-1. 
+1. [知乎前端学习路线推荐1](https://www.zhihu.com/question/19834302)
+2. [知乎前端学习路线推荐2](https://www.zhihu.com/question/32314049)
 
 
 ## 前端书籍
@@ -45,6 +46,8 @@
 
 ## JavaScript
 1. [现代JavaScript教程](http://zh.javascript.info)**(推荐！)**
+2. [2019全新javaScript进阶面向对象ES6](https://www.bilibili.com/video/av61592183)
+3. [ES6干净女声甜美教学](https://www.bilibili.com/video/av47304735)
 
 
 ## Vue
@@ -54,6 +57,7 @@
 ## git
 1. [git速查表](https://biaoyansu.com/27.cheatsheet)
 2. [猴子都能懂的git入门](https://backlog.com/git-tutorial/cn/)
+3. [Git&GitHub视频教程](https://www.bilibili.com/video/av49085612)
 
 
 ## MarkDown
