@@ -17,6 +17,7 @@
 - [图片](#图片)
 - [配色](#配色)
 - [Google](#google)
+- [学习资源](#资源)
 
 
 ## 前端全套课程
@@ -29,7 +30,22 @@
 
 
 ## 前端书籍
-1. 
+- css
+    - 响应式web设计HTML5和CSS3实战 
+    - CSS世界(不推荐新手直接看)
+- JavaScript
+    - JavaScriptDOM编程艺术 
+    - JavaScript语言精粹
+    - JavaScript高级程序设计
+    - ES6标准入门
+    - 高性能的JavaScrit
+    - 你不知道的JavaScrit
+    - JavaScript设计模式与开发实践
+    - 正则表达式必知必会
+- Jquery
+    - 锋利的Jquery
+- Node
+    - 深入浅出Nodejs
 
 
 ## HTML
@@ -81,3 +97,7 @@
 
 ## Google
 1. [创建Google账号](https://accounts.google.com/signup/v2/webcreateaccount?service=grandcentral&continue=https%3A%2F%2Fvoice.google.com%2F&hl=zh-HK&flowName=GlifWebSignIn&flowEntry=SignUp)
+
+ 
+## 资源
+1. [W3School离线手册](https://github.com/shiyutim/learningGuide/tree/master/W3School%E7%A6%BB%E7%BA%BF%E6%89%8B%E5%86%8C)
