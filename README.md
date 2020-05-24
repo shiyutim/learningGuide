@@ -56,7 +56,7 @@
 
 ## CSS
 
-1. [css 特效]([https://cssfx.netlify.app](https://cssfx.netlify.app/))
+1. [css 特效](https://cssfx.netlify.app/)
 2. [justify-content](https://www.jianshu.com/p/bbd114834c59)
 3. [hover 动画](http://sc.chinaz.com/jiaobendemo.aspx?downloadid=1201784157960)
 4. [过渡函数 1](cubic-bezier.com)[过渡函数 2](https://easings.net)
